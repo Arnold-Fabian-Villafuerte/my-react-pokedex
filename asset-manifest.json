@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-react-pokedex/static/css/main.c4e80d85.css",
+    "main.js": "/my-react-pokedex/static/js/main.9b10a8ff.js",
+    "static/media/background-pokeballs.png": "/my-react-pokedex/static/media/background-pokeballs.41f122e30f94780f5747.png",
+    "index.html": "/my-react-pokedex/index.html",
+    "main.c4e80d85.css.map": "/my-react-pokedex/static/css/main.c4e80d85.css.map",
+    "main.9b10a8ff.js.map": "/my-react-pokedex/static/js/main.9b10a8ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4e80d85.css",
+    "static/js/main.9b10a8ff.js"
+  ]
+}
